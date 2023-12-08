@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+
+body{
+    font-family: 'Nova Square', sans-serif;
+    font-size: x-large;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 0px 200px 0px 200px;
+}
+
+a{
+    color: rgb(255, 0, 0);
+}
+
+a:hover{
+    font-size: larger;
+    font-family: 'Vina Sans', sans-serif;
+    color: aliceblue;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    border: solid;
+}
+
+.presentation{
+    text-align: center;
+}
+
+
+.parcour{
+    text-align: center;
+    border: solid;
+    padding: 20px;
+}
+
+
+.boxsti{
+    text-align: center;
+    width: 60%;
+    margin-top: 5%;
+}
+
+.boxsti2{
+    text-align: center;
+    width: 60%;
+    
+    
+}
+
+.boxrt1{
+    
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.boxrt2{
+    text-align: center;
+    
+    margin-left: 40%;
+    
+    
+}
+
+.boxfutur{
+    text-align: center;
+    
+    width: 60%;
+    margin-top: 5%;
+    
+}
+
+.boxfutur2{
+    text-align: center;
+    
+    width: 60%;
+}
+
+
+/*css passion*/
+
+.titre{
+    text-align: center;
+}
+
+.passi{
+    text-align: center;
+}
+
+
+.handballcquoi{
+    margin: 5%;
+}
+
+.regle{
+    margin: 5%;
+}
+
+.edfm{
+    margin: 5%;
+}
+
+.edff{
+   
+    margin: 5%;
+}
